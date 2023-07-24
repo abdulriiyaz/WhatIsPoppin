@@ -1,0 +1,24 @@
+{
+  "name": "whatispoppin",
+  "version": "1.0.0",
+  "description": "WIP - It is a tool for visualising internet trends/memes for you marketing enthusiasts.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3js",
+    "data",
+    "visualisation",
+    "3d",
+    "javasrcipt",
+    "open-source"
+  ],
+  "author": "Abdul Riyaz",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "volleyball": "^1.5.1"
+  }
+}
